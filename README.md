@@ -7,7 +7,7 @@ A business website for the SecFlow Group. Final deliverable will include a singl
 - Credits
 - License
 
-## How to Instal and Run the Project
+## How to Install and Run the Project
 
 ## How to Use the Project
 
